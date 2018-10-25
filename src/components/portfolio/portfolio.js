@@ -60,7 +60,7 @@ export default class Header extends Component {
             <span className="categories"><i className="fa fa-tag" />Js Calculator</span>
           </div>
           <div className="link-box">
-            <a href="http://www.deshtech.net/calculator">Details</a>
+            <a href="http://deshtech.net/portfolio/calculator/index.html">Details</a>
             <a className="popup-modal-dismiss">Close</a>
           </div>
         </div>{/* modal-02 End */}
