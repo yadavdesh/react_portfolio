@@ -18,14 +18,10 @@ export default class About extends Component {
             </p>
             <div className="row">
               <div className="columns contact-details">
-                <h2>Contact Details</h2>
-                <p className="address">
-                  <span>Desh Bhardwaj</span><br />
-                  <span>Am Steinberg 4, 13086 Berlin
-                  </span><br />
-                  <span>(176)459-36837</span><br />
-                  <span>bhardwajdesh@gmail.com</span>
-                </p>
+                <h2>Contact Email</h2>
+                  <p>
+                    <span>bhardwajdesh@gmail.com</span>
+                  </p>
               </div>
               <div className="columns download">
                 <p>

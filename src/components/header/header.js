@@ -17,12 +17,11 @@ export default class Header extends Component {
      <div className="row banner">
        <div className="banner-text">
          <h1 className="responsive-headline">Desh Bhardwaj</h1>
-         <h3>I am a passionate self-taught web developer with 4+ years of web development and testing experience.
+         <h3>I am a passionate web developer with 3+ years of web development and testing experience.
          I enjoy learning new tools & technologies. Lets <a className="smoothscroll" href="#about"> start scrolling </a>
           and learn more <a className="smoothscroll" href="#about">about me</a>.</h3>
          <hr />
          <ul className="social">
-           <li><a href="https://www.facebook.com/desh.yadav"><i className="fa fa-facebook" /></a></li>
            <li><a href="https://twitter.com/DeshYadav"><i className="fa fa-twitter" /></a></li>
            <li><a href="https://www.linkedin.com/in/desh-y-45237211/"><i className="fa fa-linkedin" /></a></li>
            <li><a href="https://www.xing.com/profile/Desh_Bhardwaj"><i className="fa fa-xing" /></a></li>
