@@ -10,11 +10,8 @@ export default class About extends Component {
           </div>
           <div className="nine columns main-col">
             <h2>About Me</h2>
-            <p>I have started my career as QA engineer where I have learned
-            different testing techniques and get some exposure of scrum and
-            kanban practices. After working couple of years as a QA Engineer for manual
-            and automation testing I get inclined towards web development and
-            decided to learn web development.
+            <p>Versatile Web Developer with 2+ years of Experience in front-end and full-stack development as well as some years of experience in manual and automation testing.
+            Specialized in ReactJS and ruby on rails.
             </p>
             <div className="row">
               <div className="columns contact-details">
