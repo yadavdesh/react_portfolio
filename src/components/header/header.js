@@ -17,8 +17,7 @@ export default class Header extends Component {
      <div className="row banner">
        <div className="banner-text">
          <h1 className="responsive-headline">Desh Bhardwaj</h1>
-         <h3>I am a passionate web developer with 4+ years of web development and QA experience.
-         I enjoy learning new tools & technologies. Lets <a className="smoothscroll" href="#about"> start scrolling </a>
+         <h3> Lets <a className="smoothscroll" href="#about"> start scrolling </a>
           and learn more <a className="smoothscroll" href="#about">about me</a>.</h3>
          <hr />
          <ul className="social">
